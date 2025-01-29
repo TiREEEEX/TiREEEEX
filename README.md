@@ -33,7 +33,7 @@ Hey there! I'm **Tarek**, a **19-year-old** passionate about **computer science,
 
 ## 📫 Connect with Me!
 - 📧 **Email**: nt_zerari@esi.dz
-- 💼 **LinkedIn**: [your-profile](https://www.linkedin.com/in/tarek-zerari-197736331/)
+- 💼 **LinkedIn**: [my-profile](https://www.linkedin.com/in/tarek-zerari-197736331/)
 
 ---
 
